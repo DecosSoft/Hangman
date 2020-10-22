@@ -1,0 +1,33 @@
+oro:Es algo material
+uva:Es una fruta
+leonel messi:Es un deportista
+leon marino:Es un animal
+cobre:Es algo material
+cristiano ronaldo:Es un deportista
+correr:Es una acción
+motocicleta:Medio de transporte
+television:Es algo material
+michael jordan:Es un deportista
+rinoceronte:Es un animal
+jugar:Es una accion
+dinero:Es algo material
+club america:Es un equipo
+murcielago:Es un animal
+abrazar:Es una accion
+club guadalajara:Es un equipo
+automovil:Medio de transporte
+manzana:Es una fruta
+real madrid:Es un equipo
+venado:Es un animal
+escribir:Es una accion
+avion:Medio de transporte
+naranja:Es una fruta
+toronja:Es una fruta
+limon:Es una fruta
+pera:Es una fruta
+melon:Es una fruta
+papaya:Es una fruta
+sandia:Es una fruta
+platano:Es una fruta
+uva:Es una fruta
+plata:Es algo material
