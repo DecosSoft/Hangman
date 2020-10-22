@@ -1,35 +1,35 @@
-oro:mineral
-uva:fruta
-leonel messi:deportista
-leon marino:animal
-cobre:mineral
-cristiano ronaldo:deportista
-correr:acción
-motocicleta:transporte
-television:electrónico
-michael jordan:deportista
-rinoceronte:animal
-jugar:accion
-dinero:material
-club america:equipo deportivo
-murcielago:animal
-abrazar:accion
-club guadalajara:equipo deportivo
-automovil:transporte
-manzana:fruta
-real madrid:equipo deportivo
-venado:animal
-escribir:accion
-avion:transporte
-naranja:fruta
-toronja:fruta
-limon:fruta
-pera:fruta
-melon:fruta
-papaya:fruta
-sandia:fruta
+oro:Es un mineral
+uva:Es una fruta
+leonel messi:Es un deportista
+leon marino:Es un animal
+cobre:Es un mineral
+cristiano ronaldo:Es un deportista
+correr:Es una acción
+motocicleta:Es un transporte
+television:Es algo electrónico
+michael jordan:Es un deportista
+rinoceronte:Es un animal
+jugar:Es una accion
+dinero:Es un material
+club america:Es un equipo deportivo
+murcielago:Es un animal
+abrazar:Es una acción
+club guadalajara:Es un equipo deportivo
+automovil:Es un transporte
+manzana:Es una fruta
+real madrid:Es un equipo deportivo
+venado:Es un animal
+escribir:Es una acción
+avion:Es un transporte
+naranja:Es una fruta
+toronja:Es una fruta
+limon:Es una fruta
+pera:Es una fruta
+melon:Es una fruta
+papaya:Es una fruta
+sandia:Es una fruta
 banana:una fruta
-uva:una fruta
-plata:un mineral
-ferrocarril:un transporte
-murciélago:un animal
+uva:Es una fruta
+plata:Es un mineral
+ferrocarril:Es un transporte
+murcielago:Es un animal
