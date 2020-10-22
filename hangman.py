@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+
+"""
++ FileName  =  hangman.py
++  Created  =  30/07/2005
++   Author  =  DecosSoft
++  Version  =  1.0
+"""
+
 from modules import logo, styles, tries, validate,efects, exitGame, rules
 from random import choice
 from os import system
