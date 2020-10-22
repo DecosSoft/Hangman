@@ -1,0 +1,33 @@
+oro:mineral
+uva:fruta
+leonel messi:deportista
+leon marino:animal
+cobre:mineral
+cristiano ronaldo:deportista
+correr:acción
+motocicleta:transporte
+television:electrónico
+michael jordan:deportista
+rinoceronte:animal
+jugar:accion
+dinero:material
+club america:equipo
+murcielago:animal
+abrazar:accion
+club guadalajara:equipo
+automovil:transporte
+manzana:fruta
+real madrid:equipo
+venado:animal
+escribir:accion
+avion:transporte
+naranja:fruta
+toronja:fruta
+limon:fruta
+pera:fruta
+melon:fruta
+papaya:fruta
+sandia:fruta
+platano:fruta
+uva:fruta
+plata:mineral
