@@ -1,3 +1,10 @@
+"""
++ FileName  =  banner.py
++  Created  =  30/07/2005
++   Author  =  DecosSoft
++  Version  =  1.0
+"""
+
 from modules import styles, efects
 from os import system
 
