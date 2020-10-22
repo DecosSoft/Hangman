@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+
+"""
++ FileName  =  validate.py
++  Created  =  30/07/2005
++   Author  =  DecosSoft
++  Version  =  1.0
+"""
+
 from modules import efects, tries, styles
 from modules.language import language
 from time import sleep
