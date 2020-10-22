@@ -11,13 +11,13 @@ michael jordan:deportista
 rinoceronte:animal
 jugar:accion
 dinero:material
-club america:equipo
+club america:equipo deportivo
 murcielago:animal
 abrazar:accion
-club guadalajara:equipo
+club guadalajara:equipo deportivo
 automovil:transporte
 manzana:fruta
-real madrid:equipo
+real madrid:equipo deportivo
 venado:animal
 escribir:accion
 avion:transporte
@@ -28,6 +28,8 @@ pera:fruta
 melon:fruta
 papaya:fruta
 sandia:fruta
-platano:fruta
-uva:fruta
-plata:mineral
+banana:una fruta
+uva:una fruta
+plata:un mineral
+ferrocarril:un transporte
+murciélago:un animal
