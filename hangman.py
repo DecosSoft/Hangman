@@ -56,7 +56,7 @@ def hangman(lang):
         win= validate.userWin(lang, word, unMask)
         if win==True:
             break
-        showImage(lang, clue, userTries, mask, inputs)
+        showImage(lang, "Pista|Clue: "+clue, userTries, mask, inputs)
         print('\n')
         print(admin.Run+language(lang)(3),end=' ')
         letter=input(color.green+'')
