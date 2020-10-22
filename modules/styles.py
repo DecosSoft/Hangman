@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+
+"""
++ FileName  =  styles.py
++  Created  =  30/07/2005
++   Author  =  DecosSoft
++  Version  =  1.0
+"""
+
 class Ascii:
     g = grey = '\033[90m'
     pink = '\033[95m'
